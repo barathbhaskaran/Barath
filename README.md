@@ -112,20 +112,13 @@
   <h2 align="left">😎 Profile Views&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span align="right">🤝🏻 Connect with me:</span></h2>
     </h3>
   <a href="mailto:kanishqsunil99@gmail.com" target="blank"><img align="right" src="https://user-images.githubusercontent.com/36290185/215365227-e7534df4-efc1-4edc-8deb-4c463e1a8431.png" alt="gamil logo" height="30" width="40" /></a>
-   <a href="https://www.linkedin.com/in/kanishq-sunil/" target="blank"><img align="right"
+   <a href="https://www.linkedin.com/in/barath-bhaskaran/" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="stalemate99" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/kanishq.sunil/" target="blank"><img align="right"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="kanishq sunil" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/kanishq_3110/" target="blank"><img align="right"
+    <a href="https://www.instagram.com/kanishq_3110/" target="blank"><img align="right"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="kanishq sunil" height="30" width="40" /></a>
- <a href="https://twitter.com/stalemate199" target="blank"><img align="right"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="Barath Bhaskaran" height="30" width="40" /></a>
-      <img src="https://komarev.com/ghpvc/?username=stalemate99&label=Profile%20views&color=0e75b6&style=flat" alt="profile" />
-      <img src="https://img.shields.io/github/followers/stalemate99.svg?style=social&label=Follow&maxAge=2592000" alt="profile" />
+ 
 </p>
 
 ##### Credit: [Barath Bhaskaran](https://github.com/profile)
