@@ -90,4 +90,7 @@ I'm a passionate **Full Stack Developer** with a strong foundation in **Java, Sp
 <h2 align="left">🤝 Connect with Me</h2>
 <p>
   <a href="mailto:bbhaskar@terpmail.umd.edu"><img align="left" src="https://user-images.githubusercontent.com/36290185/215365227-e7534df4-efc1-4edc-8deb-4c463e1a8431.png" alt="gmail logo" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/barath-bhaskaran/
+  <a href="https://www.linkedin.com/in/barath-bhaskaran/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Barath Bhaskaran" height="30" width="40" /></a>
+</p>
+
+##### Credit: [Barath Bhaskaran](https://github.com/barathbhaskaran)
